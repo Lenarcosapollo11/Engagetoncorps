@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Vendez vos ebooks sur le sport avec notre plateforme.">
+    <title>Vente d'ebooks sur le sport</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #1e3d59;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5rem;
+        }
+        header p {
+            font-size: 1.2rem;
+        }
+        section {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .cta-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .cta-buttons a {
+            background-color: #ff6600;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            transition: background-color 0.3s;
+        }
+        .cta-buttons a:hover {
+            background-color: #e54d00;
+        }
+        .about {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: 40px;
+        }
+        .about h2 {
+            font-size: 2rem;
+            color: #1e3d59;
+        }
+        .about p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #1e3d59;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Vendez vos ebooks sur le sport</h1>
+        <p>Découvrez nos ebooks exclusifs pour améliorer vos performances et votre bien-être physique !</p>
+    </header>
+
+    <section>
+        <div class="cta-buttons">
+            <a href="https://lien1.com" target="_blank">Achetez maintenant</a>
+            <a href="https://lien2.com" target="_blank">Explorer nos ebooks</a>
+        </div>
+
+        <div class="about">
+            <h2>À propos de nos ebooks</h2>
+            <p>Nos ebooks couvrent divers aspects du sport, de la nutrition à l'entraînement, en passant par les stratégies de récupération. Que vous soyez un athlète débutant ou confirmé, vous trouverez des ressources précieuses pour vous aider à atteindre vos objectifs.</p>
+            <p>Nos ebooks sont conçus par des experts dans le domaine du sport, avec des conseils pratiques et des informations scientifiquement prouvées. Améliorez votre forme physique et votre bien-être grâce à nos guides complets.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Vente d'ebooks sur le sport - Tous droits réservés</p>
+    </footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Vendez vos ebooks sur le sport avec notre plateforme.">
+    <title>Vente d'ebooks sur le sport</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #1e3d59;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5rem;
+        }
+        header p {
+            font-size: 1.2rem;
+        }
+        section {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .cta-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .cta-buttons a {
+            background-color: #ff6600;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            transition: background-color 0.3s;
+        }
+        .cta-buttons a:hover {
+            background-color: #e54d00;
+        }
+        .about {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: 40px;
+        }
+        .about h2 {
+            font-size: 2rem;
+            color: #1e3d59;
+        }
+        .about p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #1e3d59;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Vendez vos ebooks sur le sport</h1>
+        <p>Découvrez nos ebooks exclusifs pour améliorer vos performances et votre bien-être physique !</p>
+    </header>
+
+    <section>
+        <div class="cta-buttons">
+            <a href="https://lien1.com" target="_blank">Achetez maintenant</a>
+            <a href="https://lien2.com" target="_blank">Explorer nos ebooks</a>
+        </div>
+
+        <div class="about">
+            <h2>À propos de nos ebooks</h2>
+            <p>Nos ebooks couvrent divers aspects du sport, de la nutrition à l'entraînement, en passant par les stratégies de récupération. Que vous soyez un athlète débutant ou confirmé, vous trouverez des ressources précieuses pour vous aider à atteindre vos objectifs.</p>
+            <p>Nos ebooks sont conçus par des experts dans le domaine du sport, avec des conseils pratiques et des informations scientifiquement prouvées. Améliorez votre forme physique et votre bien-être grâce à nos guides complets.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Vente d'ebooks sur le sport - Tous droits réservés</p>
+    </footer>
+
+</body>
+</html>
